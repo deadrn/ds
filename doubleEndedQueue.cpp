@@ -54,6 +54,7 @@ void DQ::deF(){
     delete temp;
 }
 
+//incomplete
 void DQ::deR(){
     node *temp = tail;
     cout << temp->data << " deleted\n";
